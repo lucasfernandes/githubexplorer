@@ -1,0 +1,3 @@
+rootProject.name = 'githubexplorer'
+
+include ':app'
